@@ -4,5 +4,5 @@
 그날 무심코 찾아본 것 중에 기록할만한 것들을 모조리 넣어 놓습니다.
 
 # F/E
-vuejs 한글 http://kr.vuejs.org/
+vuejs 한글 http://kr.vuejs.org/  
 redux cheatsheet http://ricostacruz.com/cheatsheets/awesome-redux.html
