@@ -5,3 +5,4 @@
 
 # F/E
 vuejs 한글 http://kr.vuejs.org/
+redux cheatsheet http://ricostacruz.com/cheatsheets/awesome-redux.html
