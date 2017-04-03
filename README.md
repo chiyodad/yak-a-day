@@ -8,5 +8,5 @@
 https://www.jetbrains.com/help/idea/2017.1/eclipse.html
 * 이클립스용 dracula 테마는 없다.
 https://draculatheme.com/  
-http://www.eclipsecolorthemes.org/?view=theme&id=12886  
+http://www.eclipsecolorthemes.org/?view=theme&id=12886  
 (변경방법  http://withcoding.com/37) 
